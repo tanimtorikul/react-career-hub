@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "logo": "https://i.ibb.co/BjwvNW4/airbnb.png",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Onsite",
+    "location": "Mountain View, California",
+    "job_type": "Full Time",
+    "salary": "120k - 160k",
+    "job_description": "A Technical Database Engineer is responsible for managing and optimizing database systems to ensure efficient data storage and retrieval. This role involves designing, implementing, and maintaining database solutions.",
+    "job_responsibility": "Database Management: Collaborate with cross-functional teams to ensure the database systems align with business and technical requirements. You will also need to optimize database performance and troubleshoot issues.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3-5 years of experience in database engineering.",
+    "contact_information": {
+      "phone": "123-456-7890",
+      "email": "info@google.com",
+      "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043, USA"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "https://i.ibb.co/vzjthvf/netflix.png",
+    "job_title": "Senior Product Designer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Onsite",
+    "location": "Fremont, California",
+    "job_type": "Full Time",
+    "salary": "110k - 150k",
+    "job_description": "A Senior Product Designer is responsible for creating innovative and user-friendly product interfaces. This includes designing user experiences and collaborating with cross-functional teams.",
+    "job_responsibility": "User-Centric Design: Work closely with product management, engineering, and marketing teams to ensure product interfaces align with user needs. Gather and incorporate feedback for continuous improvement.",
+    "educational_requirements": "Bachelor's degree in Design or a related field.",
+    "experiences": "4-6 years of experience in product design.",
+    "contact_information": {
+      "phone": "555-555-5555",
+      "email": "info@tesla.com",
+      "address": "3500 Deer Creek Road, Palo Alto, CA 94304, USA"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://i.ibb.co/dtF0TRT/tesla.png",
+    "job_title": "Software Engineer",
+    "company_name": "Netflix",
+    "remote_or_onsite": "Remote",
+    "location": "Los Gatos, California",
+    "job_type": "Full Time",
+    "salary": "130k - 170k",
+    "job_description": "A Software Engineer at Netflix is responsible for developing and maintaining software solutions. This role involves coding, debugging, and collaborating with cross-functional teams.",
+    "job_responsibility": "Software Development: Collaborate remotely with product management, engineering, and marketing teams to develop and maintain software solutions. Ensure code quality and reliability.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3-5 years of software engineering experience.",
+    "contact_information": {
+      "phone": "987-654-3210",
+      "email": "info@netflix.com",
+      "address": "100 Winchester Circle, Los Gatos, CA 95032, USA"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "https://i.ibb.co/Ntr7rGx/google.png",
+    "job_title": "Software Engineer",
+    "company_name": "Airbnb",
+    "remote_or_onsite": "Onsite",
+    "location": "San Francisco, California",
+    "job_type": "Full Time",
+    "salary": "125k - 160k",
+    "job_description": "A Software Engineer at Airbnb is responsible for developing and maintaining software solutions for the hospitality industry. This role involves coding, debugging, and collaborating with cross-functional teams.",
+    "job_responsibility": "Software Development: Collaborate onsite with product management, engineering, and marketing teams to develop and maintain software solutions for the hospitality sector. Ensure code quality and reliability.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3-5 years of software engineering experience.",
+    "contact_information": {
+      "phone": "111-222-3333",
+      "email": "info@airbnb.com",
+      "address": "888 Brannan Street, San Francisco, CA 94103, USA"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://i.ibb.co/dtF0TRT/tesla.png",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Remote",
+    "location": "Mountain View, California",
+    "job_type": "Full Time",
+    "salary": "120k - 160k",
+    "job_description": "A Technical Database Engineer is responsible for managing and optimizing database systems to ensure efficient data storage and retrieval. This role involves designing, implementing, and maintaining database solutions.",
+    "job_responsibility": "Database Management: Collaborate with cross-functional teams remotely to ensure the database systems align with business and technical requirements. Optimize database performance and troubleshoot issues.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3-5 years of experience in database engineering.",
+    "contact_information": {
+      "phone": "123-456-7890",
+      "email": "info@google.com",
+      "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043, USA"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://i.ibb.co/vzjthvf/netflix.png",
+    "job_title": "Senior Product Designer",
+    "company_name": "Airbnb",
+    "remote_or_onsite": "Remote",
+    "location": "San Francisco, California",
+    "job_type": "Full Time",
+    "salary": "110k - 150k",
+    "job_description": "A Senior Product Designer is responsible for creating innovative and user-friendly product interfaces. This includes designing user experiences and collaborating with cross-functional teams.",
+    "job_responsibility": "User-Centric Design: Work closely with product management, engineering, and marketing teams to ensure product interfaces align with user needs. Gather and incorporate feedback for continuous improvement.",
+    "educational_requirements": "Bachelor's degree in Design or a related field.",
+    "experiences": "4-6 years of experience in product design.",
+    "contact_information": {
+      "phone": "111-222-3333",
+      "email": "info@airbnb.com",
+      "address": "888 Brannan Street, San Francisco, CA 94103, USA"
+    }
+  }
+]
